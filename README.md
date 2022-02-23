@@ -2,7 +2,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdullahwaseem01/)
 
 
-I’m Hiba, an Information Technology student, with a passion for solving problems with code.
+I’m Hiba, an Information Technology student, with a passion for solving problems.
 
 <br>
 
@@ -46,9 +46,6 @@ I’m Hiba, an Information Technology student, with a passion for solving proble
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![]
-![]
-![]
  
  ## &#x1f4c8; GitHub Stats
  <a href="https://github.com/abdullahwaseem01/">
