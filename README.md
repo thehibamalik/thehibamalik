@@ -1,6 +1,5 @@
 ## Hey there 👋
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/hiba-malik)
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hiba-malik/)
 
 I’m Hiba, an Information Technology student, with a passion for solving problems.
 
