@@ -1,5 +1,5 @@
 ## Hey there 👋
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abdullahwaseem01/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/hiba-malik)
 
 
 I’m Hiba, an Information Technology student, with a passion for solving problems.
@@ -48,9 +48,4 @@ I’m Hiba, an Information Technology student, with a passion for solving proble
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  
  ## &#x1f4c8; GitHub Stats
- <a href="https://github.com/abdullahwaseem01/">
-  <img align="center" style="margin: 2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahwaseem01&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=000000" />
-  </a>
-  <a href ="">
-    <img align = "center" style = "margin: 2rem;" src="https://github-readme-stats.vercel.app/api?username=abdullahwaseem01&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000"/>
-  </a>
+(https://github-readme-stats.vercel.app/api?thehibamalik={thehibamalik})
