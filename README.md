@@ -3,7 +3,7 @@
 
 <br>
 
-I’m Hiba, an Information Technology student, with a passion for solving problems.
+I’m Hiba, an Information Technology student, with a passion for solving problems using code and leadership.
 
 <br>
 
@@ -49,4 +49,3 @@ I’m Hiba, an Information Technology student, with a passion for solving proble
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  
  ## &#x1f4c8; GitHub Stats
-(https://github-readme-stats.vercel.app/api?thehibamalik={thehibamalik})
