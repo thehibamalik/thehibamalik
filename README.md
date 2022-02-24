@@ -10,7 +10,7 @@ I’m Hiba, an Information Technology student, with a passion for solving proble
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/thehibamalik/Faculty-Admin-System">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=thehibamalik&repo=facultyadminsystem&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=thehibamalik&repo=Faculty-Admin-System&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
 </a>
 <a href="https://github.com/abdullahwaseem01/MNIST-Database-CBIR">
   <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=MNIST-Database-CBIR&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
@@ -52,4 +52,5 @@ I’m Hiba, an Information Technology student, with a passion for solving proble
 
  
  ## &#x1f4c8; GitHub Stats
- 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thehibamalik)
+![](https://github-readme-stats.vercel.app/api?username=thehibamalik)
