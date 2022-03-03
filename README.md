@@ -7,20 +7,18 @@ I’m Hiba, an Information Technology student, with a passion for solving proble
 
 <br>
 
-## 📌 Pinned Repositories
-
-<a href="https://github.com/thehibamalik/Faculty-Admin-System">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=thehibamalik&repo=Faculty-Admin-System&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
-</a>
-<a href="https://github.com/abdullahwaseem01/MNIST-Database-CBIR">
-  <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=MNIST-Database-CBIR&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
-</a>
-<a href="https://github.com/abdullahwaseem01/Lab-Manager">
-  <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=Lab-Manager&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000" />
-</a>
-<a href="https://github.com/abdullahwaseem01/cryptospace">
-  <img align="center" style="margin: 2rem" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahwaseem01&repo=cryptospace&title_color=ffffff&text_color=c9cacc&icon_color=FFFFFF&bg_color=000000"/>
-</a>
+## 💼 Skills
+![](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 <br>
 
